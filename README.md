@@ -1,4 +1,4 @@
-### Hi, I'm Paola! &nbsp;&nbsp;<sup>👾 &#12299;Eu faço perguntas, os dados respondem. Busco padrões em dados e, às vezes, em tudo na vida. Questiono médias, testo hipóteses e automatizo tarefas monótonas. Não gosto de valores nulos e correlação não é causalidade.</sup>
+### Hi, I'm Paola! &nbsp;&nbsp;<sup>👾 &#12299;Eu faço perguntas, os dados respondem. Busco padrões, questiono médias, testo hipóteses e automatizo tarefas monótonas (quase sempre com café por perto). Correlação não é causalidade e valores nulos sempre merecem investigação.</sup>
 
 ----
 
